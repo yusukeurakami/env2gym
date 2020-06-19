@@ -1,3 +1,6 @@
+# Under developement (6/19/2020)
+
+
 # OpenAI Gym wrapper for the DeepMind Control Suite.
 A lightweight wrapper around the DeepMind Control Suite that provides the standard OpenAI Gym interface. The wrapper allows to specify the following:
 * Reliable random seed initialization that will ensure deterministic behaviour.
